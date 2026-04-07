@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CORE_CRAFTER.aternos.me:34717",
+    "ip": "CORE_CRAFTER.aternos.me",
     "port": 34717,
     "version": "1.21.1",
     "try-creative": false
